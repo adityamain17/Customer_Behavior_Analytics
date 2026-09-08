@@ -2,8 +2,6 @@
 
 An end-to-end data analysis project exploring shopping patterns, customer segments, and revenue drivers across **3,900 transactions**, using **Python** for data cleaning, **MySQL** for structured business-question analysis, and **Power BI** for interactive visualization.
 
-![Dashboard Preview](dashboard.png)
-
 ---
 
 ## 📌 Project Overview
@@ -128,6 +126,17 @@ WHERE item_rank <= 3;
 ## 📈 Dashboard (Power BI)
 
 An interactive Power BI dashboard was built on top of the MySQL database, with filters for **Subscription Status**, **Gender**, **Category**, and **Shipping Type**.
+
+
+
+
+<img width="1272" height="691" alt="dashboard" src="https://github.com/user-attachments/assets/513aa9cb-8d1f-40b0-97a5-c1f603b41def" />
+
+
+
+
+
+
 
 **Visuals included:**
 - KPI cards — Number of Customers, Average Purchase Amount, Average Review Rating
